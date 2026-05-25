@@ -1,4 +1,4 @@
-# InstaCart🛒--- Grocery Delivery App with Live Order Tracking
+# InstaCart🛒 - Grocery Delivery App with Live Order Tracking
 
 A production-ready full-stack grocery delivery application built using the PERN Stack (PostgreSQL, Express.js, React.js, Node.js).  
 The platform supports real-time order tracking, secure authentication, online payments, admin management, and delivery partner workflows.
@@ -191,7 +191,7 @@ Live Tracking Enabled
 ## Clone Repository
 
 ```bash
-git clone <your-github-link>
+git clone https://github.com/kashifashah1/InstaCart---Grocery-Delivery-PERN-stack-App.git
 ```
 
 ---
@@ -348,8 +348,8 @@ Through this project I gained practical experience in:
 
 ## Kashifa
 
-- GitHub: add-your-link
-- LinkedIn: add-your-link
+- GitHub: https://github.com/kashifashah1
+- LinkedIn: https://www.linkedin.com/in/kashifa-shah-4974aa272/
 
 ---
 
